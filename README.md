@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Itoshi Yanazawa</h1>
 <h3 align="center">Data Science Major at University of Texas at Dallas</h3>
 
-- 🏢 I’m currently looking for summer 2024 internship for Data Science/Data Analyst
-- 🌱 I’m currently learning **Data Engineering, ML**
-- 📫 How to reach me **itoshi.yanazawa@gmail.com** or LinkedIn
-
-
 ###
 
 <div align="center">
@@ -16,6 +11,13 @@
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+- 🏢 I’m currently looking for summer 2024 internship for Data Science/Data Analyst
+- 🌱 I’m currently learning **Data Engineering, ML**
+- 📫 How to reach me **itoshi.yanazawa@gmail.com** or LinkedIn
+
 
 ###
 
@@ -41,6 +43,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="rstudio logo"  />
 </div>
 
+
+
+
 ###
 
 <div align="left">
@@ -52,10 +57,3 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/itoshiyanazawa/itoshiyanazawa/output/snake.svg" alt="Snake animation" />
-
-###
