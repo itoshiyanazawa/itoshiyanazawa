@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="24989308_MotionElements_hud-monochrome-front_converted_727542-480x270-3s-q2.gif"  />
+<img align="right" height="130" src="24989308_MotionElements_hud-monochrome-front_converted_727542-480x270-3s-q2.gif"  />
 
 ## 🚀 About Me
 
