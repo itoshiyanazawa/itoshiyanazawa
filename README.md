@@ -12,14 +12,14 @@
 
 <img align="right" height="150" src="24989308_MotionElements_hud-monochrome-front_converted_727542-480x270-3s-q2.gif"  />
 
-###
+## 🚀 About Me
 
 - 🏢 I’m currently looking for summer 2024 internship for Data Science/Data Analyst
 - 🌱 I’m currently learning **Data Engineering, ML**
 - 📫 How to reach me **itoshi.yanazawa@gmail.com** or LinkedIn
 
 
-###
+## 🛠 Skills
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -46,7 +46,7 @@
 
 
 
-###
+## ☎️ Contact
 
 <div align="left">
   <a href="itoshi.yanazawa@gmail.com" target="_blank">
