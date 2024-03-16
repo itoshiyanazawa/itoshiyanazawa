@@ -15,7 +15,7 @@
 ## 🚀 About Me
 
 - 🏢 I’m currently looking for summer 2024 internship for Data Science/Data Analyst
-- 🌱 I’m currently learning **Data Engineering, ML**
+- 🌱 I’m learning **Data Engineering, ML**
 - 📫 How to reach me **itoshi.yanazawa@gmail.com** or LinkedIn
 
 
