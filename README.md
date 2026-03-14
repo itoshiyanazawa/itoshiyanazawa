@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Itoshi Yanazawa</h1>
-<h3 align="center">Data Science Major at University of Texas at Dallas</h3>
+<h3 align="center">Data Analyst who is into automation and everything </h3>
 
 ###
 
@@ -15,7 +15,7 @@
 ## 🚀 About Me
 
 - 🏢 I’m a data analyst for the aviation industry
-- 🌱 I leverage **Automation and provide insights to make people's task easier**
+- 🌱 I leverage **Automation and provide insights to make people's tasks easier**
 - 📫 How to reach me **itoshi.yanazawa@gmail.com** or **LinkedIn**
 
 
