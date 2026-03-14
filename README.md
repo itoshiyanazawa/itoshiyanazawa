@@ -15,7 +15,7 @@
 ## 🚀 About Me
 
 - 🏢 I’m a data analyst for the aviation industry
-- 🌱 I’m learning **Data Engineering, ML**
+- 🌱 I leverage **Automation and provide insights to make people's task easier**
 - 📫 How to reach me **itoshi.yanazawa@gmail.com** or **LinkedIn**
 
 
